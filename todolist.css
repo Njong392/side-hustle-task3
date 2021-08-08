@@ -42,3 +42,10 @@
 	color: black;
 	border-radius: 8px;
 }
+
+.del{
+	background-color: skyblue;
+	position: inherit;
+	border: 1px solid white;
+	border-radius: 8px;
+}
